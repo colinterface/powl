@@ -1,0 +1,26 @@
+{
+  "name": "powl",
+  "version": "0.0.0",
+  "description": "i saw the greatest minds of my generation waiting 20 minutes for a train",
+  "main": "lib/script.js",
+  "bin": {
+    "powl": "bin/module.js"
+  },
+  "preferGlobal": "true",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ultralame/powl.git"
+  },
+  "author": "ultralame",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ultralame/powl/issues"
+  },
+  "dependencies": {
+    "request": "^2.58.0",
+    "xml2js": "^0.4.9"
+  }
+}
