@@ -1,3 +1,5 @@
+[![NPM](https://nodei.co/npm/powl.png)](https://npmjs.org/package/powl)
+
 # powl
 i saw the best minds of my generation waiting 20 minutes for bart
 
