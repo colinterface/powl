@@ -1,7 +1,7 @@
 {
   "name": "powl",
-  "version": "0.0.0",
-  "description": "i saw the greatest minds of my generation waiting 20 minutes for a train",
+  "version": "0.0.2",
+  "description": "i saw the greatest minds of my generation waiting 20 minutes for bart",
   "main": "lib/script.js",
   "bin": {
     "powl": "bin/module.js"
