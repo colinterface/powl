@@ -13,7 +13,3 @@ add support for your direction or line by submitting a pull request. use command
 set to all northbound trains.
 check out the [bart api documentation](http://api.bart.gov/docs/etd/etd.aspx)
 and the [list of station abbreviations](http://api.bart.gov/docs/overview/abbrev.aspx)
-
-## parental advisory
-
-this command uses explicit language
