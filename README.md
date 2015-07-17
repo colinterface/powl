@@ -5,6 +5,8 @@ i saw the best minds of my generation waiting 20 minutes for bart
 
 estimated departure times from the powell st station
 
+![screenshot](/screen.png)
+
 ## installing
 
 `npm i -g powl`
